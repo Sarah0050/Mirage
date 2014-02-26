@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蚊子館地圖</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_map_marker">地圖-右上角定位您的位置</string>
+    <string name="title_activity_pic_info">詳細資料</string>
+
+</resources>
